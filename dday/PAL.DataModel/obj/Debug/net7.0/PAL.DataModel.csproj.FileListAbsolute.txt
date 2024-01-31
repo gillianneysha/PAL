@@ -1,0 +1,210 @@
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll
+C:\Users\GYL\Downloads\dday\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.deps.json
+C:\Users\GYL\Downloads\dday\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.runtimeconfig.json
+C:\Users\GYL\Downloads\dday\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\dday\PAL.DataModel\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.AssemblyInfo.cs
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\refint\PAL.DataModel.dll
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\PAL.DataModel.genruntimeconfig.cache
+C:\Users\GYL\Downloads\dday\PAL.DataModel\obj\Debug\net7.0\ref\PAL.DataModel.dll

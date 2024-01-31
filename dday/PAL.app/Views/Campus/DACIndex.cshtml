@@ -1,0 +1,64 @@
+﻿@model List<DACSlotVM> 
+
+
+<h1><b>Design and Arts Campus Parking</b></h1>
+<h6>Address: 950 Ocampo St, Malate, Manila, 1004 Metro Manila</h6>
+<br/>
+
+@if (Model.Count <= 0)
+{
+    <div class="alert alert-danger">
+        No records found!
+    </div>
+}
+else
+{
+    <table class="table table-striped  table-bordered">
+        <thead>
+            <tr>
+                <th colspan="5"><center><b>Parking Spaces in DAC Campus</b></center></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (var i = 0; i < Model.Count; i += 5)
+            {
+                <tr>
+                    @foreach (var item in Model.Skip(i).Take(5))
+                    {
+                        <td class="col-2 cell-hover">
+                            <style>
+                                /* Add this style to target the cells with class "cell-hover" */
+                                .cell-hover:hover {
+                                    /* Add your desired hover styles here */
+                                    background-color: #f2f2f2; /* Change this to the desired background color on hover */
+                                    cursor: pointer; /* Optional: Change the cursor to a pointer on hover */
+                                }
+                            </style>
+                            <br />
+                            <center>@item.DACSlotId</center>
+                            <br />
+                            Status: <b>@item.Status</b>
+                            @if (item.Status == "Unoccupied")
+                            {
+                                <!-- Display the reserve button if item.Status is true -->
+                                <center>
+                                    <br/>
+                                    <a asp-controller="DAC" asp-action="Reservation" asp-route-DACSlotId="@item.DACSlotId" asp-route-DACCampus="@item.DACCampus" class="btn btn-info btn-sm">
+                                        Reserve
+                                    </a>
+
+
+                                </center>
+                            }
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+    <center>
+    <a asp-controller="DAC" asp-action="DACReservationDetails" class="btn btn-primary">
+        View Your Reservations
+    </a>
+    </center>
+}

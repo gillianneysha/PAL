@@ -1,0 +1,25 @@
+﻿@model SignInVM
+
+<h3> Sign in to your Account </h3>
+
+<form asp-controller="Account" asp-action="SignIn"
+      asp-route-returnUrl="@Model.ReturnUrl" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <label asp-for="Username"></label>
+    <input asp-for="Username" class="form-control" />
+    <br />
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password" class="form-control" />
+    <br />
+
+    <a asp-action="IndexStart" asp-controller="HomeLog" class="btn btn-light">
+        Back to Home Page
+    </a>
+    <input type="submit" class="btn btn-success" value="Log-In" />
+</form>
+<br />
+Don't have an account?
+<a asp-controller="Account" asp-action="Register">
+    Register here!
+</a>

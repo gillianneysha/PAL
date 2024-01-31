@@ -1,0 +1,119 @@
+﻿@model List<CampusReservationVM>
+
+<h1><b>Reservation Details</b></h1>
+<h6><b>*Important Notice:</b> Please present your reservation details upon entering the parking space.</h6>
+<br/>
+
+
+@if (Model.Count <= 0)
+{
+    <div class="alert alert-info">
+        No reservations found!
+    </div>
+}
+else
+{
+    <table class="table table-striped table-bordered">
+
+        <thead>
+            <tr>
+                <th><b>Reservation ID</b></th>
+                <th><b>Campus</b></th>
+                <th><b>Slot ID</b></th>
+                <th><b>User Id</b></th>
+                <th><b>Contact No</b></th>
+                <th><b>Plate No</b></th>
+                <th><b>Start Time</b></th>
+                <th><b>End Time</b></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var reservation in Model)
+            {
+                if (reservation.UserId == User.Identity.Name || User.Identity.Name == "entprogadmin@gmail.com")
+                {
+                    <tr>
+                        <td>@reservation.CampusReservationId</td>
+                        <td>@reservation.Campus</td>
+                        <td>@reservation.SlotId</td>
+                        <td>@reservation.UserId</td>
+                        <td>@reservation.ContactNo</td>
+                        <td>@reservation.PlateNo</td>
+                        <td>@reservation.StartTime</td>
+                        <td>@reservation.EndTime</td>
+                        <td>
+                            @if (reservation.EndTime > DateTime.Now && reservation.Campus == "DAC") // Check if end time has not passed
+                            {
+                                <form asp-controller="DAC" asp-action="Delete" method="post" style="display: inline">
+                                    <input type="hidden" name="CampusReservationId" value="@reservation.CampusReservationId" />
+                                    <button type="submit" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Cancel Reservation</button>
+                                </form>
+                            }
+                            else if (reservation.EndTime > DateTime.Now && reservation.Campus == "AKIC") // Check if end time has not passed
+                            {
+                                <form asp-controller="AKIC" asp-action="Delete" method="post" style="display: inline">
+                                    <input type="hidden" name="CampusReservationId" value="@reservation.CampusReservationId" />
+                                    <button type="submit" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Cancel Reservation</button>
+                                </form>
+                            }
+                            else if (reservation.EndTime > DateTime.Now && reservation.Campus == "DOMINGA") // Check if end time has not passed
+                            {
+                                <form asp-controller="DOMINGA" asp-action="Delete" method="post" style="display: inline">
+                                    <input type="hidden" name="CampusReservationId" value="@reservation.CampusReservationId" />
+                                    <button type="submit" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Cancel Reservation</button>
+                                </form>
+                            }
+                            else if (reservation.EndTime > DateTime.Now && reservation.Campus == "PDGII") // Check if end time has not passed
+                            {
+                                <form asp-controller="PETER" asp-action="Delete" method="post" style="display: inline">
+                                    <input type="hidden" name="CampusReservationId" value="@reservation.CampusReservationId" />
+                                    <button type="submit" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Cancel Reservation</button>
+                                </form>
+                            }
+                            else if (reservation.Paid)
+                            {
+                                <span class="text-muted">Paid</span>
+                                <br/>
+                                <span class="text-muted">Reservation Expired</span>
+                            }
+                            else if (reservation.EndTime <= DateTime.Now && User.Identity.Name == "entprogadmin@gmail.com")
+                            {
+                                <span class="text-muted">Reservation Expired</span>
+                                <form asp-controller="DAC" asp-action="Payment" method="post" style="display: inline">
+                                    <input type="hidden" name="CampusReservationId" value="@reservation.CampusReservationId" />
+                                    <button type="submit" class="btn btn-success btn-sm"><i class="fas fa-trash"></i> Payment Received</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Unpaid</span>
+                                <br />
+                                <span class="text-muted">Reservation Expired</span>
+                            }
+                    </td>
+                    
+                </tr>
+                }
+            }
+        </tbody>
+    </table>
+   
+}
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+    <i class="fas fa-caret-square-left"></i>
+    Back
+</a>
+
+<style type="text/css">
+    #btnPrint {
+        border-radius: 3px;
+        margin-left: 0.5%;
+        width: 180px;
+        height: 36px;
+        background-color: #556B2F;
+        color: #FFFFFF;
+        font-size: 11pt;
+    }
+</style>
+<input id="btnPrint" name="btnPrint" type="button" value="Print Reservation Details" onclick="window.print()" />

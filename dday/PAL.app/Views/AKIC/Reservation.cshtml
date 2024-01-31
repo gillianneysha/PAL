@@ -1,0 +1,52 @@
+﻿@model CampusReservationVM
+
+<h1>Reservation Form</h1>
+
+<form asp-controller="AKIC" asp-action="Reserve" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <input type="hidden" name="CampusReservationId" value="@Model.CampusReservationId" />
+    <input asp-for="CampusReservationId" type="hidden" />
+
+    <label asp-for="Campus">
+    </label>
+    <input asp-for="Campus" type="text" value="@Model.Campus" class="form-control" readonly />
+    <br />
+
+    <label asp-for="SlotId">
+    </label>
+    <input asp-for="SlotId" type="text" value="@Model.SlotId" class="form-control" readonly />
+    <br />
+
+    <input type="hidden" name="UserId" value="@Model.UserId" />
+    <input asp-for="UserId" type="hidden" />
+    <br />
+
+    <label asp-for="ContactNo">
+    </label>
+    <input type="text" asp-for="ContactNo" class="form-control" />
+    <br />
+
+    <label asp-for="PlateNo">
+    </label>
+    <input type="text" asp-for="PlateNo" class="form-control" />
+    <br />
+
+    <label asp-for="StartTime">
+    </label>
+    <input type="time" asp-for="StartTime" class="form-control" />
+    <br />
+    <label asp-for="EndTime">
+    </label>
+    <input type="time" asp-for="EndTime" class="form-control" />
+    <br />
+
+    <a asp-controller="Campus" asp-action="AKICIndex" class="btn btn-primary">
+        <i class="fas fa-caret-square-left"></i>
+        Back
+    </a>
+
+    <button type="submit" class="btn btn-primary"><i class="fas fa-save"></i> Reserve </button>
+
+
+</form>
+

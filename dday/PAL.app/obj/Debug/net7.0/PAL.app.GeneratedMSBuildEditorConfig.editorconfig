@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PAL.app
+build_property.RootNamespace = PAL.app
+build_property.ProjectDir = C:\Users\GYL\Downloads\dday\PAL.app\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\GYL\Downloads\dday\PAL.app
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Account/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/AKIC/Reservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUtJQ1xSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Campus/AKICIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzXEFLSUNJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Campus/DACIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzXERBQ0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Campus/DomingaIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzXERvbWluZ2FJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Campus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Campus/PeterIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcHVzXFBldGVySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/DAC/DACReservationDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcREFDXERBQ1Jlc2VydmF0aW9uRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/DAC/Reservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcREFDXFJlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/DOMINGA/Reservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRE9NSU5HQVxSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/HomeLog/IndexStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUxvZ1xJbmRleFN0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/HomeLog/PoliciesIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUxvZ1xQb2xpY2llc0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/PETER/Reservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEVURVJcUmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Shared/_LogInPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dJblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GYL/Downloads/dday/PAL.app/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vmyp99b55u

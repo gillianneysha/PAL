@@ -1,0 +1,225 @@
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\PAL\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL\PAL\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\lenovo\Downloads\ENTPROGFINALS\PAL\PAL\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\PAL-2\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\PAL-Reservation\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-OtherCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\LATEST\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\PAL-KayaPa\PAL-AllCampus\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\Alfred Esguerra\Desktop\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\lenovo\Downloads\PAL huhu\PAL-hello\PAL-updated\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
+C:\Users\GYL\Downloads\dday\PAL.Repository\bin\Debug\net7.0\PAL.Repository.deps.json
+C:\Users\GYL\Downloads\dday\PAL.Repository\bin\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\dday\PAL.Repository\bin\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\dday\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.dll
+C:\Users\GYL\Downloads\dday\PAL.Repository\bin\Debug\net7.0\PAL.DataModel.pdb
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.AssemblyInfo.cs
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.csproj.CopyComplete
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.dll
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\refint\PAL.Repository.dll
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\PAL.Repository.pdb
+C:\Users\GYL\Downloads\dday\PAL.Repository\obj\Debug\net7.0\ref\PAL.Repository.dll
